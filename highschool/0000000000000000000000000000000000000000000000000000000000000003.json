@@ -1,6 +1,8 @@
 {
 	"name": "servey",
 	"description": "from highschool",
+	"decimals": "18",
 	"image": "https://gateway.pinata.cloud/ipfs/QmRdJtEfoRKWoW29kEsvq7WPwXNdrAaqAcnmuifYX8yRrV"
+	"properties" : "",
 	
 }
